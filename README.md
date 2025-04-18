@@ -66,7 +66,7 @@ Displays all vendor registrations with details such as:
 - **Email & Contact**
 - **Verification & Approval Status**
 
-![Vendors](screenshots/Media\ \(8\).jfif)
+![Vendors](screenshots/vendor.jfif)
 
 ---
 
