@@ -82,14 +82,17 @@ Displays details of each training center:
 
 ---
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 
-- **Framework**: Ionic + Angular (cross-platform)
-- **Design**: Modern UI with flat illustrations and card layout
-- **Auth**: Secure login with password toggle
-- **State Management**: Local storage + Service-based architecture
-- **Data**: JSON/REST APIs (backend integrated)
+- **Platform**: Android Native Application (Java)
+- **UI Design**: Material Design (Android Material Components)
+- **Language**: Java (Android SDK)
+- **Architecture**: MVVM (Model-View-ViewModel) or MVC (based on feature/module)
+- **Authentication**: Secure login with password visibility toggle
+- **Networking**: Retrofit / Volley (for consuming RESTful APIs)
+- **Image Loading**: Glide or Picasso (optional, for profile images etc.)
+- **Data Persistence**: SharedPreferences, SQLite, or Room Database
+- **Export Functionality**: Supports data export to PDF / Excel formats (if required)
 
----
 
 
